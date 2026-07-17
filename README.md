@@ -17,4 +17,4 @@ The output will be in the dev console, which you can copy/paste into a ```#inclu
 
 This is "as-is" and it's up to the user to kinda figure out how it works and how to use it, sorry
 
-
+Some of the sprites will automatically update via the onEdit() function. Others will have to be explicitly called from the Apps Script tab (the console is required)
